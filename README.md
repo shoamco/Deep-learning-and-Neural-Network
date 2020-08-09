@@ -1,4 +1,7 @@
-# coursera
+# Deep learning and Neural Network
+## About this repository
+This is the code and learning notes about Deep learning and Neural Network taught by Andrew Ng.
+This repository contains the programming assignments about this lesson.
 
 
 | Course	Link to Repo |  Link to Repo   |
